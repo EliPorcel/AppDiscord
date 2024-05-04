@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">AppDiscord</string>
+
+    <!-- activity_main.xml -->
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="bienvenido">¡Bienvenido a Discord!</string>
+    <string name="ingresar">Ingresar</string>
+
+    <!-- activity_segunda.xml -->
+    <string name="estudio">Crea grupos de estudio</string>
+    <string name="mantencontacto">Mantén contacto</string>
+    <string name="amigos">Haz nuevos amigos</string>
+    <string name="salir">Salir de la cuenta</string>
+    <string name="desarrolladora">Acerca de la desarrolladora</string>
+    <string name="text1">Organiza sesiones de estudio fácilmente con tus compañeros.</string>
+    <string name="text2">No pierdas contacto con tus seres queridos, estén donde estén.</string>
+    <string name="text3">Haz nuevos amigos y descubre nuevas experiencias con nuestra plataforma.</string>
+
+    <!-- activity_desarrolladora.xml -->
+    <string name="des1">Soy Eliana Porcel, desarrolladora de software especializada en SEO. ¡Puedo ayudarte a convertir tus ideas en resultados!</string>
+    <string name="des2">¡Contáctame!</string>
+    <string name="des3">Acerca de la desarrolladora:</string>
+    <string name="llamar">Llamar</string>
+    <string name="email">E-mail</string>
+    <string name="volver">Volver a la página principal</string>
+
+</resources>

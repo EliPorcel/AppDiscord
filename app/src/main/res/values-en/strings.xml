@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppDiscord</string>
+
+    <!-- activity_main.xml -->
+    <string name="usuario">Username</string>
+    <string name="contraseña">Password</string>
+    <string name="bienvenido">Welcome to Discord!</string>
+    <string name="ingresar">Log In</string>
+
+    <!-- activity_segunda.xml -->
+    <string name="estudio">Create study groups</string>
+    <string name="mantencontacto">Stay in touch</string>
+    <string name="amigos">Make new friends</string>
+    <string name="salir">Log out</string>
+    <string name="desarrolladora">About the developer</string>
+    <string name="text1">Easily organize study sessions with your peers.</string>
+    <string name="text2">Stay connected with your loved ones, no matter where they are.</string>
+    <string name="text3">Make new friends and discover new experiences with our platform.</string>
+
+    <!-- activity_desarrolladora.xml -->
+    <string name="des1">I am Eliana Porcel, a software developer specialized in SEO. I can help you turn your ideas into results!</string>
+    <string name="des2">Contact me!</string>
+    <string name="des3">About the developer:</string>
+    <string name="llamar">Call</string>
+    <string name="email">Email</string>
+    <string name="volver">Back to home page</string>
+
+</resources>
